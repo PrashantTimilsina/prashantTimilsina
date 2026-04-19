@@ -1,19 +1,89 @@
 <h1 align="center">Hi 👋, I'm Prashant Timilsina</h1>
-<h3 align="center">A passionate MERN stack and Next.js + TypeScript developer from Nepal.</h3>
+<h3 align="center">🚀 MERN Stack & Next.js + TypeScript Developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanttimilsina&label=Profile%20views&color=0e75b6&style=flat" alt="prashanttimilsina" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanttimilsina" alt="prashanttimilsina" /></a> </p>
-
-- 🌱 I’m currently learning **TypeScript, NextAuth, and advanced full-stack development with Next.js.**
-
-- 📫 How to reach me **prashanttimilsina16@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prashant-timilsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant timilsina" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61578269964686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prashant timilsina" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashanttimilsina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 About Me
+
+- 💻 Passionate **Full Stack Developer (MERN + Next.js)**
+- 🌱 Currently learning:
+  - **TypeScript (Advanced)**
+  - **NextAuth Authentication**
+  - **Scalable Full-Stack Architecture**
+- 🧠 Love building real-world apps (like rental & blog platforms)
+- 🎯 Goal: Become a **top-level full-stack engineer**
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍🎨 Frontend
+- React.js
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB (Mongoose)
+
+### 🔐 Authentication & Tools
+- NextAuth.js
+- Git & GitHub
+- Cloudinary (Image Uploads)
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 Rental Web App
+- Full-stack MERN project
+- Property listing, authentication, and CRUD features
+
+### ✍️ Blog App (Next.js)
+- Built with **Next.js + TypeScript**
+- Authentication with NextAuth
+- Dynamic blog system with categories
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanttimilsina&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttimilsina&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prashant-timilsina" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61578269964686" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** prashanttimilsina16@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into real-world full-stack applications 🚀
+
+---
