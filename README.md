@@ -1,89 +1,47 @@
 <h1 align="center">Hi 👋, I'm Prashant Timilsina</h1>
-<h3 align="center">🚀 MERN Stack & Next.js + TypeScript Developer from Nepal</h3>
+<h3 align="center">🚀 MERN Stack & Next.js + TypeScript Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashanttimilsina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prashanttimilsina&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💻 Passionate **Full Stack Developer (MERN + Next.js)**
-- 🌱 Currently learning:
-  - **TypeScript (Advanced)**
-  - **NextAuth Authentication**
-  - **Scalable Full-Stack Architecture**
-- 🧠 Love building real-world apps (like rental & blog platforms)
-- 🎯 Goal: Become a **top-level full-stack engineer**
+### 👨‍💻 About Me
+- 💻 Full Stack Developer (MERN + Next.js)
+- 🌱 Learning **TypeScript & NextAuth**
+- 🚀 Building real-world apps (Rental & Blog)
 
 ---
 
-## 🚀 Tech Stack
-
-### 👨‍🎨 Frontend
-- React.js
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB (Mongoose)
-
-### 🔐 Authentication & Tools
-- NextAuth.js
-- Git & GitHub
-- Cloudinary (Image Uploads)
-
----
-
-## 📌 Featured Projects
-
-### 🏠 Rental Web App
-- Full-stack MERN project
-- Property listing, authentication, and CRUD features
-
-### ✍️ Blog App (Next.js)
-- Built with **Next.js + TypeScript**
-- Authentication with NextAuth
-- Dynamic blog system with categories
-
----
-
-## 📊 GitHub Stats
-
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanttimilsina&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttimilsina&theme=tokyonight" alt="streak" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/prashant-timilsina" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61578269964686" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanttimilsina&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanttimilsina&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-
-📧 **Email:** prashanttimilsina16@gmail.com  
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy turning ideas into real-world full-stack applications 🚀
+### 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-timilsina"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61578269964686"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/></a>
+</p>
 
 ---
+
+### 📫 Email
+**prashanttimilsina16@gmail.com**
