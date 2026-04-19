@@ -15,18 +15,9 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
-  
-  <!-- Express (fixed - visible on dark theme) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,tailwind,git,postman&theme=dark"/>
+</div>
 
 ### 📊 GitHub Stats
 <p align="center">
