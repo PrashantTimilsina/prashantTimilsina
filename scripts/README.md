@@ -13,7 +13,7 @@ theme.
 ```sh
 pip install -r scripts/requirements.txt
 python3 scripts/generate_assets.py
-GH_USER=amrit-sapkota GH_TOKEN=$(gh auth token) python3 scripts/update_contributions.py
+GH_USER=PrashantTimilsina GH_TOKEN=$(gh auth token) python3 scripts/update_contributions.py
 python3 scripts/check_profile.py
 ```
 

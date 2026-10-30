@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Draw assets/contributions-{dark,light}.svg from the last year of GitHub activity.
 
-    GH_TOKEN=... GH_USER=amrit-sapkota python3 scripts/update_contributions.py
+    GH_TOKEN=... GH_USER=PrashantTimilsina python3 scripts/update_contributions.py
     python3 scripts/update_contributions.py --sample    # made-up data, for previews
 
 The calendar includes private contributions because the profile shares their
